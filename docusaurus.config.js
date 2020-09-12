@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Yipnyap Documentation',
   tagline: 'Need help? I do too, tbh.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://help.yipnyap.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
