@@ -1,0 +1,51 @@
+module.exports = {
+  title: 'Yipnyap Documentation',
+  tagline: 'Need help? I do too, tbh.',
+  url: 'https://your-docusaurus-test-site.com',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
+  favicon: 'img/favicon.ico',
+  themeConfig: {
+    navbar: {
+      title: 'Yipnyap',
+      logo: {
+        alt: 'Yipnyap Documentation Logo',
+        src: 'img/logo.png',
+      },
+      items: [
+        {
+          to: 'docs/',
+          activeBasePath: 'docs',
+          label: 'Docs',
+          position: 'left',
+        }
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [],
+      copyright: `Copyright © ${new Date().getFullYear()} Yipnyap &mdash; <a href="https://twitter.com/rekkisomo" target="_blank">project by @rekkisomo</a>`,
+    },
+  },
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        docs: {
+          // It is recommended to set document id as docs home page (`docs/` path).
+          homePageId: 'intro',
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      },
+    ],
+  ],
+};
