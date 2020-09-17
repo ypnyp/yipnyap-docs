@@ -1,0 +1,70 @@
+---
+id: posts
+title: Posts API
+---
+
+import { Text, Highlight, StructTable } from "../../utils/stuff.js";
+
+WIP
+
+:::info Globals
+**API Domain**: `bakeneko.yipnyap.xyz/content` ($API)
+:::
+
+## Create a Post
+**<Text color="#F6AD55">POST</Text>** $API/posts
+
+**Post Structure**
+<StructTable>
+    <tr>
+        <td>body</td>
+        <td>String</td>
+        <td>Body of post</td>
+    </tr>
+</StructTable>
+
+**Post Example**
+```json
+{
+    "result": {
+        "album": {
+            "images": []
+        },
+        "kukiko": {
+            "perspective": {
+                "languages": [
+                    "en"
+                ],
+                "summary": 0.020813033,
+                "attributes": {
+                    "attackOnAuthor": 0.027566204,
+                    "attackOnCommenter": 0.030931257,
+                    "attackOnIdentity": 0.029885871,
+                    "insult": 0.048133925,
+                    "profanity": 0.034468982,
+                    "threat": 0.03051808,
+                    "sexuallyExplicit": 0.06977328,
+                    "flirtation": 0.06392707,
+                    "incoherent": 0.6773646,
+                    "inflammatory": 0.045778275,
+                    "codeOfConductLikelihood": 0.993188,
+                    "obscene": 0.062871225,
+                    "spam": 0.4825437,
+                    "unsubstantial": 0.4645908
+                }
+            }
+        },
+        "_id": "5f6263156f97a61dc0fa2fcb",
+        "timestamp": 1600283413712,
+        "user": "5f3e5f46e525870ad828e2c6",
+        "body": "this is a test post uwu",
+        "__v": 0
+    },
+    "status": 201
+}
+```
+
+You cannot explicitly define the language of the post, as that's determined by Soteria to provide the best result of
+toxicity.
+
+[**Toxic Post Rejection Example**](/docs/security/kukiko#kukiko-soteria)
