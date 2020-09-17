@@ -7,6 +7,10 @@ sidebar_label: Scalebite
 Yipnyap Scalebite is a first-party app that allows ID-verified artists to create free E-commerce sites for commissions 
 and merchandise made by them. Scalebite is planned to be 100% free.
 
+## Free storage, $0. yuppp.
+Get 100GB for free, then just $0.30/gb a month after that. Oh yeah, best part? Public high quality files don't count
+towards your quota, but original uncompressed files do.
+
 ## Pay via Scalebite
 Scalebite is **planned** to manage transactions the following way. If you have questions or suggestions, poke me on 
 [Twitter](https://twitter.com/rekkisomo) or [Discord](https://discord.gg/5RcrVRn)!
