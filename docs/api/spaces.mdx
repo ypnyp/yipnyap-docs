@@ -1,0 +1,65 @@
+---
+id: spaces
+title: Content Spaces API
+---
+
+import { Text, Highlight, StructTable } from "../../utils/stuff.js";
+
+WIP
+
+:::info Globals
+**API Domain**: `bakeneko.yipnyap.xyz/spaces` ($API)
+
+**CDN Domain**: `cdn.yipnyap.xyz` ($CDN)
+
+**CDN File Layout**: `$CDN/usrupload/<UsrID>/<Type: profile | header | post>/<Version>.png`
+:::
+
+## Upload a Profile Picture
+**<Text color="#F6AD55">POST</Text>** $API/profile
+
+**Picture Structure**
+<StructTable>
+    <tr>
+        <td>images</td>
+        <td>File</td>
+        <td>Image to upload (limited to 1 file)</td>
+    </tr>
+    <tr>
+        <td>hash?</td>
+        <td>SHA256</td>
+        <td>
+            Hash verification string. Not providing this will mark the change as "Unverified", and will leave
+            "serverSideEncryption" as null
+        </td>
+    </tr>
+</StructTable>
+
+**Picture Example**
+```json
+{
+    "status": 200,
+    "user": "5f3e5f46e525870ad828e2c6",
+    "files": [
+        {
+            "fieldname": "images",
+            "originalname": "ac70add9826c7827827b703f5ebab03d.png",
+            "encoding": "7bit",
+            "mimetype": "image/png",
+            "size": 626347,
+            "bucket": "yapcdn",
+            "key": "usrupload/5f3e5f46e525870ad828e2c6/profile/2.png",
+            "acl": "public-read",
+            "contentType": "application/octet-stream",
+            "contentDisposition": null,
+            "storageClass": "STANDARD",
+            "serverSideEncryption": null,
+            "metadata": {
+                "fieldName": "images"
+            },
+            "location": "https://cdn.yipnyap.xyz/usrupload/5f3e5f46e525870ad828e2c6/profile/2.png",
+            "etag": "\"8e32482d70775fb241eed332b364bb39\""
+        }
+    ]
+}
+```
