@@ -14,9 +14,6 @@ This page contains topics such as homophobia, MAPs, racism, and more.
 We understand that what we disallow from Yipnyap may be considered censorship to some people, but we do this to protect
 everyone's safety on the platform. We only remove content that may harm others, which you can see below
 [here](#what-does-kukiko-check).
-
-Keep in mind, **no matter who you are, even if you're the government, we will remove your content if it expresses
-abusive behaviour.**
 :::
 
 :::info How we reject content will change

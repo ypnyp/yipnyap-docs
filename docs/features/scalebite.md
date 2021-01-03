@@ -4,6 +4,11 @@ title: Scalebite
 sidebar_label: Scalebite
 ---
 
+:::note This feature is Geo-locked
+Scalebite is only available in the following regions:
+- Australia
+:::
+
 Yipnyap Scalebite is a first-party app that allows ID-verified artists to create free E-commerce sites for commissions 
 and merchandise made by them. Scalebite is planned to be 100% free.
 
