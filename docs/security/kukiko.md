@@ -68,9 +68,6 @@ We'll cut to the chase. Here's the list of things that may be automatically repo
 replies, likes, repaws, etc.)
 
 :::info Reliability & Actions
-Since 2019, the model has a 97% success rate in detecting violations, while only 70% in detecting context-reliant
-violations.
-
 If the model returns a high accuracy rate, **the entire user account will be comment ghosted** until action is taken on
 the content at hand. This may also result in a user account being suspended or terminated.
 
@@ -81,9 +78,10 @@ bias. You hold the right to hand an issue higher if you feel a Moderator also br
 
 - Pedophilia
 - Zoophilia
-- Attacks based on someone's identity (Sexuality, Gender, Pronouns, Age, People of Colour, Religion, Culture, etc.).
+- Attacks based on someone's identity (Sexuality, Gender, Pronouns, Age, People of Colour, Religion, Culture,
+  Ethnicity, etc.).
   - This includes purposefully using someone's incorrect pronouns, or their dead name, as well as telling others to use
-    fake pronouns when referring to you and/or others with the intention of "humour" and/or disrespect.
+    "fake" pronouns when referring to you and/or others with the intention of making fun of others and/or disrespect.
 - Content that may break our code of conduct to date and do not fit other reasons in this list.
 - Content from PG-13 accounts that may be sexually explicit, or posts from R18 accounts that contain extreme pornography.
 - Unsolicited flirting with others.
