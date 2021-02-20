@@ -10,7 +10,7 @@ We understand that what we disallow from Yipnyap may be considered censorship to
 everyone's safety on the platform. We only remove content that may harm others, which you can see over at
 [Kukiko's Documentation](/docs/security/kukiko#what-does-kukiko-check).
 :::
-Last updated: 14/11/2020 (DD/MM/YYYY AEDT)
+Last updated: 19/02/2021 (DD/MM/YYYY AEDT)
  
 ## Introduction
 Welcome to Yipnyap (“Company”, “we”, “our”, “us”)! As you have just clicked to our Terms of Service, please make a
@@ -69,6 +69,25 @@ inappropriate content or otherwise.
 or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity.
 - To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of Yipnyap, or which, as
 determined by us, may harm or offend Company or users of Yipnyap or expose them to liability.
+- To condone other activities and/or beliefs such as:
+  - Pedophilia
+  - Zoophilia
+  - Attacks based on someone's identity (Sexuality, Gender, Pronouns, Age, People of Colour, Religion, Culture,
+    Ethnicity, etc.).
+    - This includes purposefully using someone's incorrect pronouns, or their dead name, as well as telling others to use
+      "fake" pronouns when referring to you and/or others with the intention of making fun of others and/or disrespect.
+  - Content from PG-13 accounts that may be sexually explicit, or posts from R18 accounts that contain extreme pornography.
+  - Unsolicited flirting with others.
+  - Mass advertisements and spam.
+  - Content that express the intention of self-harm, or the harming of others, even if satire.
+  - Content that express views that may be harmful to others, which includes but not limited to;
+    - Right-wing extremism
+    - Homophobia
+    - Transphobia
+    - Racism
+    - Fascism
+    - Downplaying the severity of other issues, for example, displaying strong support towards "Blue/White Lives Matter"
+      groups.
  
 Additionally, you agree not to:
 - Use Yipnyap in any manner that could disable, overburden, damage, or impair Yipnyap or interfere with any other
@@ -132,22 +151,17 @@ on the infringement of any Content found on and/or through Yipnyap on your copyr
 You may submit a notification pursuant to the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent
 with the following information in writing (see 17 U.S.C 512(c)(3) for further detail):
  
-an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright's interest;
- 
-a description of the copyrighted work that you claim has been infringed, including the URL (i.e., web page address) of
+- An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright's interest;
+- A description of the copyrighted work that you claim has been infringed, including the URL (i.e., web page address) of
 the location where the copyrighted work exists or a copy of the copyrighted work;
- 
-identification of the URL or other specific location on Yipnyap where the material that you claim is infringing is
+- Identification of the URL or other specific location on Yipnyap where the material that you claim is infringing is
 located;
- 
-your address, telephone number, and email address;
- 
-a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner,
+- Your address, telephone number, and email address;
+- A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner,
 its agent, or the law;
- 
-a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you
+- A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you
 are the copyright owner or authorized to act on the copyright owner's behalf.
- 
+
 You can contact us via email at rek@yipnyap.xyz
  
 ## Error Reporting and Feedback
@@ -163,7 +177,12 @@ derivative works, publish, distribute and commercialize) Feedback in any manner 
  
 ## Links To Other Websites
 Yipnyap may contain links to third party web sites or services that are not owned or controlled by Yipnyap.
- 
+
+You agree not to share or condone links and/or articles from assets owned by News Corp in Australia without supporting
+evidence of claims made in those articles. We hold the right to display a warning to those seeing posts with these
+links and/or articles, however we will not delete a post unless made to intentionally distribute false information
+that has been disputed.
+
 Yipnyap has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third
 party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
  
